@@ -16,7 +16,7 @@ public class GitTest {
 		
 		while(reader.hasNext())
 			System.out.println(reader.nextLine());
-		
+		 
 		reader.close();
 	}
 }
